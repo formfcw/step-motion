@@ -1,0 +1,35 @@
+{
+  "name": "step-motion",
+  "version": "1.0.0",
+  "description": "Basic animation function to animate any value or element with a step function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formfcw/step-motion.git"
+  },
+  "keywords": [
+    "animate",
+    "animation",
+    "step",
+    "step function",
+    "basic",
+    "flexible",
+    "easing",
+    "animation start",
+    "animation stop",
+    "animation cancel",
+    "animation delay"
+  ],
+  "author": "formfcw <dev@formfcw.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/formfcw/step-motion/issues"
+  },
+  "homepage": "https://github.com/formfcw/step-motion#readme",
+  "dependencies": {
+    "bezier-easing": "^2.1.0"
+  }
+}
